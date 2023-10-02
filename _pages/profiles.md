@@ -22,13 +22,14 @@ professors:
 students:
   - align: left
     name: Jihyun Yu
-    image: prof_pic.jpg
+    image: jihyun.jpeg
     content: about_jihyun.md
     image_circular: false # crops the image to make it circular
     email: jeehyun.yu@ewhain.net
+    linkedin_username: jihyun-yu-0186a0112
   - align: left
     name: Hyunseo Kim
-    image: prof_pic.jpg
+    image: seroni.png
     content: about_hyunseo.md
     image_circular: false # crops the image to make it circular
     email: khsvv@ewhain.net
