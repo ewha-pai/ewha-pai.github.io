@@ -29,7 +29,7 @@ students:
   - align: left
     name: Hyunseo Kim
     image: prof_pic.jpg
-    content: about_jihyun.md
+    content: about_hyunseo.md
     image_circular: false # crops the image to make it circular
     email: khsvv@ewhain.net
 
