@@ -5,3 +5,9 @@
 **Ph.D.** in CSE, [SNU](https://www.snu.ac.kr/) (2020)<br>
 **M.S.** in CSE, [SNU](https://www.snu.ac.kr/) (2015)<br>
 **B.S.** in CSE & Statistics, [SNU](https://www.snu.ac.kr/) (2013)
+
+##### <u>Research Interest</u>
+Weakly/Semi Supervised Learning<br>
+Active Learning<br>
+Robust Learning<br>
+Domain Adaptation
