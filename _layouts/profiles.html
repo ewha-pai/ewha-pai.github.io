@@ -6,8 +6,9 @@ layout: page
       <div class="post">
 
         <article>
-          {% if page.profiles -%}
-          {% for profile in page.profiles %}
+          {% if page.professors -%}
+          <h2>professor</h2>
+          {% for profile in page.professors %}
           <hr>
           <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if profile.image %}
@@ -32,6 +33,23 @@ layout: page
           </div>
 
           <div class="clearfix">
+            <div class="social-profile">
+              <div class="contact-icons">
+                <span style="font-size: 32px;">{{ profile.name }}&nbsp;</span>
+                {%- if profile.email -%}
+                <a href="mailto:{{ profile.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+                {% endif %}
+                {%- if profile.homepage -%}
+                <a href="{{ profile.homepage }}" title="Homepage"><i class="fas fa-house fa-sm"></i></a>
+                {% endif %}
+                {%- if profile.scholar_userid -%}
+                <a href="https://scholar.google.com/citations?user={{ profile.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                {% endif %}
+                {%- if profile.linkedin_username -%}
+                <a href="https://www.linkedin.com/in/{{ profile.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                {% endif %}
+              </div>
+            </div>
             {% if profile.content -%}
             {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
@@ -42,6 +60,63 @@ layout: page
 
           {% endfor %}
           {%- endif %}
+
+          <br>
+          {% if page.students -%}
+          <h2>students</h2>
+          {% for profile in page.students %}
+          <hr>
+          <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if profile.image %}
+              {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+
+              {% if profile.image_circular %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {% else %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              {% endif %}
+
+              {% include figure.html
+              path=profile_image_path
+              class=profile_image_class
+              alt=profile.image -%}
+            {% endif -%}
+            {%- if profile.more_info %}
+            <div class="more-info">
+              {{ profile.more_info }}
+            </div>
+            {%- endif %}
+          </div>
+
+          <div class="clearfix">
+            <div class="social-profile">
+              <div class="contact-icons">
+                <span style="font-size: 32px;">{{ profile.name }}&nbsp;</span>
+                {%- if profile.email -%}
+                <a href="mailto:{{ profile.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+                {% endif %}
+                {%- if profile.homepage -%}
+                <a href="{{ profile.homepage }}" title="Homepage"><i class="fas fa-house fa-sm"></i></a>
+                {% endif %}
+                {%- if profile.scholar_userid -%}
+                <a href="https://scholar.google.com/citations?user={{ profile.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                {% endif %}
+                {%- if profile.linkedin_username -%}
+                <a href="https://www.linkedin.com/in/{{ profile.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                {% endif %}
+              </div>
+            </div>
+            {% if profile.content -%}
+            {% capture profile_content %}{%- include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+            {%- else -%}
+            {{ content }}
+            {%- endif %}
+          </div>
+
+          {% endfor %}
+          {%- endif %}
+
         </article>
 
 </div>
