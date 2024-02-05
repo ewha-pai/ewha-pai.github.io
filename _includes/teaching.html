@@ -1,0 +1,19 @@
+          <div class="news">
+            <div class="table-responsive">
+              <table class="table table-sm table-borderless">
+              {%- assign teaching = site.teaching | reverse -%}
+              {% for item in teaching %}
+                <tr>
+                  <th scope="row">{{ item.semester }}</th>
+                  <td>
+                    {% if item.inline -%}
+                    {{ item.content }}
+                    {%- else -%}
+                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {%- endif %}
+                  </td>
+                </tr>
+              {%- endfor %}
+              </table>
+            </div>
+          </div>
