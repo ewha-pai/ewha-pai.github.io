@@ -1,5 +1,6 @@
-M.S. Student
+<p></p>
 
-##### <u>Education</u>
+##### [Education]
+**M.S** in [AIX](https://aix.ewha.ac.kr/), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (Present)
 
-##### <u>Research Interest</u>
+##### [Research Interest]
