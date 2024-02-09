@@ -1,34 +1,46 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Bae":
+  - firstname: ["Wonho"]
+    url: https://won-bae.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Bae*":
+  - firstname: ["Wonho"]
+    url: https://won-bae.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Seo":
+  - firstname: ["Jinhwan"]
+    url: https://jinhseo.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Kim":
+  - firstname: ["Gunhee"]
+    url: https://vision.snu.ac.kr/gunhee/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+  - firstname: ["Kangil"]
+    url: https://irrlab.github.io/people/professor/
+ 
+  - firstname: ["Beomsu"]
+    url: https://shuuki4.github.io/myself/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Lee":
+  - firstname: ["Soochan"]
+    url: https://soochanlee.com/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Woo":
+  - firstname: ["Sangmin"]
+    url: https://sangminwoo.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Choi":
+  - firstname: ["Sungjoon"]
+    url: https://sites.google.com/view/sungjoon-choi/home
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Zhang":
+  - firstname: ["Byoung-Tak", "ByoungTak"]
+    url: https://bi.snu.ac.kr/~btzhang/
+
+"Sutherland":
+  - firstname: ["Danica", "D. J.", "Danica J."]
+    url: https://djsutherland.ml/
+
+"McKay":
+  - firstname: ["Robert Ian", "RI", "R. I.", "Bob"]
+    url: https://www.structuredcomplexity.org/~rim/wiki/doku.php
+
