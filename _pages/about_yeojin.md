@@ -1,5 +1,5 @@
-B.S. Student
+<p></p>
 
-##### <u>Education</u>
+##### [Education]
 
-##### <u>Research Interest</u>
+##### [Research Interest]

@@ -1,7 +1,8 @@
-M.S. Student
+<p></p>
 
-##### <u>Education</u>
+##### [Education]
+**M.S** in [AIX](https://aix.ewha.ac.kr/), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (Present)<br>
 **B.S.** in  Mechanical & Biomedical Eng, [EWHA](http://www.ewha.ac.kr/ewha/index.do) (2024)
 
-##### <u>Research Interest</u>
+##### [Research Interest]
 Weakly/Semi Supervised Learning
