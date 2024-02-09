@@ -4,7 +4,9 @@
               {%- assign teaching = site.teaching | reverse -%}
               {% for item in teaching %}
                 <tr>
-                  <th scope="row">{{ item.semester }}</th>
+                  <th scope="row">
+                    <h4>{{ item.semester }}</h4>
+                  </th>
                   <td>
                     {% if item.inline -%}
                     {{ item.content }}
