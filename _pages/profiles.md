@@ -29,9 +29,41 @@ students:
     linkedin_username: jihyun-yu-0186a0112
   - align: left
     name: Hyunseo Kim
-    image: seroni.png
+    image: whayoni.png
     content: about_hyunseo.md
     image_circular: false # crops the image to make it circular
     email: khsvv@ewhain.net
+  - align: left
+    name: Jeongin Kim
+    image: whayoni.png
+    content: about_jeongin.md
+    image_circular: false # crops the image to make it circular
+    email: er.jeongin@gmail.com
+  - align: left
+    name: Seoyeon Ko
+    image: whayoni.png
+    content: about_seoyeon.md
+    image_circular: false # crops the image to make it circular
+    email: seoyeonmmn@ewhain.net
+  - align: left
+    name: Seoyeong Hwang
+    image: whayoni.png
+    content: about_seoyeong.md
+    image_circular: false # crops the image to make it circular
+    email: hsyeong98@ewhain.net
+
+interns:
+  - align: left
+    name: Yeojin Song
+    image: seroni.png
+    content: about_yeojin.md
+    image_circular: false # crops the image to make it circular
+    email: syj1031@ewhain.net
+  - align: left
+    name: Egene Chung
+    image: seroni.png
+    content: about_egene.md
+    image_circular: false # crops the image to make it circular
+    email: egenechung@gmail.com
 
 ---
