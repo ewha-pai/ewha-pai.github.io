@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of PAI lab
+title: People
+description: Members of PAI lab
 nav: true
 nav_order: 1
 
