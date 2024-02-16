@@ -8,7 +8,7 @@
 ##### [Work Experiences]
 Naver Webtoon (2021--2023)<br>
 Hyundai Motor Company (2018--2021)<br>
-Maeil Dairies Company (2017--2018
+Maeil Dairies Company (2017--2018)
 
 ##### [Research Interest]
 Robust Learning<br>
