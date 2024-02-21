@@ -29,7 +29,7 @@ students:
     linkedin_username: jihyun-yu-0186a0112
   - align: left
     name: Hyunseo Kim
-    image: whayoni.png
+    image: hyunseo.jpg
     content: about_hyunseo.md
     image_circular: false # crops the image to make it circular
     email: khsvv@ewhain.net
@@ -42,7 +42,7 @@ students:
     homepage: https://kimjeongin.directory/
   - align: left
     name: Seoyeon Ko
-    image: whayoni.png
+    image: seoyeon.jpg
     content: about_seoyeon.md
     image_circular: false # crops the image to make it circular
     email: seoyeonmmn@ewhain.net
