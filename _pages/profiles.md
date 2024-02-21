@@ -35,10 +35,11 @@ students:
     email: khsvv@ewhain.net
   - align: left
     name: Jeongin Kim
-    image: whayoni.png
+    image: jeongin.jpeg
     content: about_jeongin.md
     image_circular: false # crops the image to make it circular
     email: er.jeongin@gmail.com
+    homepage: https://kimjeongin.directory/
   - align: left
     name: Seoyeon Ko
     image: whayoni.png
