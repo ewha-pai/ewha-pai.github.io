@@ -62,7 +62,7 @@ interns:
     email: syj1031@ewhain.net
   - align: left
     name: Egene Chung
-    image: seroni.png
+    image: egene.jpg
     content: about_egene.md
     image_circular: false # crops the image to make it circular
     email: egenechung@gmail.com
