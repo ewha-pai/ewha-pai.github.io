@@ -66,5 +66,12 @@ interns:
     content: about_egene.md
     image_circular: false # crops the image to make it circular
     email: egenechung@gmail.com
+  - align: left
+    name: Yoojin Oh
+    image: yoojin.jpg
+    content: about_yoojin.md
+    image_circular: false # crops the image to make it circular
+    email: mydianaoh@ewha.ac.kr
+    github_username: finallyupper
 
 ---
