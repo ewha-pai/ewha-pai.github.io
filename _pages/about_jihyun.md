@@ -2,8 +2,8 @@
 
 ##### [Education]
 **M.S./Ph.D.** in [AIX](https://aix.ewha.ac.kr/), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (Present)<br>
-**M.S.** in Educational Technology, [EWHA](http://www.ewha.ac.kr/ewha/index.do) (2017)<br>
-**B.S.** in Educational Technology, [EWHA](http://www.ewha.ac.kr/ewha/index.do) (2015)
+**M.S.** in [Educational Technology](https://my.ewha.ac.kr/et/), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (2017)<br>
+**B.S.** in [Educational Technology](https://my.ewha.ac.kr/et/), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (2015)
 
 ##### [Work Experiences]
 Naver Webtoon (2021--2023)<br>
