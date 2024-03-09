@@ -48,6 +48,9 @@ layout: page
                 {%- if profile.linkedin_username -%}
                 <a href="https://www.linkedin.com/in/{{ profile.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                 {% endif %}
+                {%- if profile.github_username -%}
+                <a href="https://github.com/{{ profile.github_username }}" title="Github"><i class="fab fa-github"></i></a>
+                {% endif %}
               </div>
             </div>
             {% if profile.content -%}
@@ -103,6 +106,9 @@ layout: page
                 {% endif %}
                 {%- if profile.linkedin_username -%}
                 <a href="https://www.linkedin.com/in/{{ profile.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                {% endif %}
+                {%- if profile.github_username -%}
+                <a href="https://github.com/{{ profile.github_username }}" title="Github"><i class="fab fa-github"></i></a>
                 {% endif %}
               </div>
             </div>
