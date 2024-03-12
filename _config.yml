@@ -11,7 +11,7 @@ email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Practical AI Lab, Ewha Womans University
 footer_text: >
-  ECC B130, 52, Ewhayeodae-gil, Seodaemun-gu, Seoul 03760, Korea (TEL: +82-2-3277-5040)
+  ECC B130-2, 52, Ewhayeodae-gil, Seodaemun-gu, Seoul 03760, Korea (TEL: +82-2-3277-5040)
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
