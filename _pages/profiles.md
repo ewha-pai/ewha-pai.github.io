@@ -73,5 +73,12 @@ interns:
     image_circular: false # crops the image to make it circular
     email: mydianaoh@ewha.ac.kr
     github_username: finallyupper
+  - align: left
+    name: Chehun Han
+    image: chehun.jpg
+    content: about_chehun.md
+    image_circular: false # crops the image to make it circular
+    email: chehun1216@ewha.ac.kr
+    github_username: chechae
 
 ---
