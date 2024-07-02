@@ -80,5 +80,13 @@ interns:
     image_circular: false # crops the image to make it circular
     email: chehun1216@ewha.ac.kr
     github_username: chechae
+  - align: left
+    name: Jiyoon Jeon
+    image: seroni.png
+    content: about_jiyoon.md
+    image_circular: false # crops the image to make it circular
+    email: jyunejeon@gmail.com
+    github_username: JuneJe0n
+    homepage: https://sprout-epoxy-733.notion.site/JuneJeon-898908f4380d4fceb6b4df88399701fd?pvs=4
 
 ---

@@ -6,6 +6,10 @@
   - firstname: ["Junhyug"]
     url: https://junhyug.github.io/
 
+"You*":
+  - firstname: ["Youngjae"]
+    url: https://junhyug.github.io/
+
 "Bae":
   - firstname: ["Wonho"]
     url: https://won-bae.github.io/
@@ -24,9 +28,12 @@
 
   - firstname: ["Kangil"]
     url: https://irrlab.github.io/people/professor/
- 
+
   - firstname: ["Beomsu"]
     url: https://shuuki4.github.io/myself/
+
+  - firstname: ["Youngmin"]
+    url: https://winston1214.github.io/
 
 "Lee":
   - firstname: ["Soochan"]
