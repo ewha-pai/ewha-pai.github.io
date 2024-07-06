@@ -56,10 +56,11 @@ students:
 interns:
   - align: left
     name: Yeojin Song
-    image: seroni.png
+    image: yeojin.jpg
     content: about_yeojin.md
     image_circular: false # crops the image to make it circular
     email: syj1031@ewhain.net
+    github_username: YeoJins
   - align: left
     name: Egene Chung
     image: egene.jpg
