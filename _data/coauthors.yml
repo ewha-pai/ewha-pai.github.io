@@ -6,9 +6,13 @@
   - firstname: ["Junhyug"]
     url: https://junhyug.github.io/
 
-"You*":
+"Yu":
   - firstname: ["Youngjae"]
-    url: https://junhyug.github.io/
+    url: https://yj-yu.github.io/home/
+
+"Yu*":
+  - firstname: ["Youngjae"]
+    url: https://yj-yu.github.io/home/
 
 "Bae":
   - firstname: ["Wonho"]
@@ -38,6 +42,13 @@
 "Lee":
   - firstname: ["Soochan"]
     url: https://soochanlee.com/
+
+  - firstname: ["Joonhyung"]
+    url: https://joonhyung-lee.github.io/
+
+"Shin":
+  - firstname: ["Seungyoun"]
+    url: https://seungyounshin.github.io/
 
 "Woo":
   - firstname: ["Sangmin"]
