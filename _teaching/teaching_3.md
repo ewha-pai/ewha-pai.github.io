@@ -7,6 +7,6 @@ related_posts: false
 
 **38906** - Software Convergence Project\
 **39154** - Computer Vision\
-**39158** - AI Living Lab Ⅰ\
+**39158** - AI Living Lab I \
 **IDS104** - Applied Machine Learning\
 **G18424** - Introduction to Artificial Intelligence
