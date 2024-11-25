@@ -89,5 +89,12 @@ interns:
     email: jyunejeon@gmail.com
     github_username: JuneJe0n
     homepage: https://sprout-epoxy-733.notion.site/JuneJeon-898908f4380d4fceb6b4df88399701fd?pvs=4
+  - align: left
+    name: Youlee Han
+    image: youlee.jpg
+    content: about_youlee.md
+    image_circular: false # crops the image to make it circular
+    email: oneglass@ewhain.net
+    homepage: https://yyullmucha.notion.site/
 
 ---
