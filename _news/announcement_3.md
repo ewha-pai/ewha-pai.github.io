@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper on active learning has been accepted at ECCV 2024.
+<!-- Our paper on active learning has been accepted at ECCV 2024. -->
+One paper accepted at ECCV 2024.
