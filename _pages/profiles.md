@@ -64,6 +64,12 @@ students:
     content: about_seoyeong.md
     image_circular: false # crops the image to make it circular
     email: hsyeong98@ewhain.net
+  - align: left
+    name: Soomin Kim
+    image: soomin.jpg
+    content: about_soomin.md
+    image_circular: false # crops the image to make it circular
+    email: vog12340@ewha.ac.kr
   # 나중에 추가할 준비
   # - align: left
   #   name: Seoyeon Ko
