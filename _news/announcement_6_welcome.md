@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to our new graduate students: Mingyeong, Soomin, and Dongeun!
+Welcome to our new graduate students: Egene, Mingyeong, Soomin, and Dongeun!
