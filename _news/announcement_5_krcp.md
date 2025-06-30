@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at Kidney Research and Clinical Practice (Q1).
+One paper accepted in Kidney Research and Clinical Practice (Q1).

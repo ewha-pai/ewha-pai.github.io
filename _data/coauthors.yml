@@ -2,23 +2,11 @@
   - firstname: ["Junhyug"]
     url: https://junhyug.github.io/
 
-"Noh*":
-  - firstname: ["Junhyug"]
-    url: https://junhyug.github.io/
-
 "Yu":
   - firstname: ["Youngjae"]
     url: https://yj-yu.github.io/home/
 
-"Yu*":
-  - firstname: ["Youngjae"]
-    url: https://yj-yu.github.io/home/
-
 "Bae":
-  - firstname: ["Wonho"]
-    url: https://won-bae.github.io/
-
-"Bae*":
   - firstname: ["Wonho"]
     url: https://won-bae.github.io/
 
@@ -38,13 +26,27 @@
 
   - firstname: ["Youngmin"]
     url: https://winston1214.github.io/
+  
+  - firstname: ["Mingyu"]
+    url: https://mingyukim87.github.io/
 
 "Lee":
+  - firstname: ["Joonseok"]
+    url: http://www.joonseok.net/
+  
   - firstname: ["Soochan"]
     url: https://soochanlee.com/
 
   - firstname: ["Joonhyung"]
     url: https://joonhyung-lee.github.io/
+
+"Oh":
+  - firstname: ["Yoojin"]
+    url: https://finallyupper.github.io/
+
+"Moon":
+  - firstname: ["Sangwoo"]
+    url: https://vision.snu.ac.kr/people/sangwoomoon.html
 
 "Shin":
   - firstname: ["Seungyoun"]

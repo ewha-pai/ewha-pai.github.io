@@ -70,31 +70,25 @@ students:
     content: about_soomin.md
     image_circular: false # crops the image to make it circular
     email: vog12340@ewha.ac.kr
+  - align: left
+    name: Mingyeong Song
+    image: whayoni.png
+    content: about_mingyeong.md
+    image_circular: false # crops the image to make it circular
+    email: smk11602@ewhain.net
+  - align: left
+    name: Dongeun Seo
+    image: dongeun.jpg
+    content: about_dongeun.md
+    image_circular: false # crops the image to make it circular
+    email: 438862@ewha.ac.kr
   # 나중에 추가할 준비
   # - align: left
   #   name: Seoyeon Ko
-  #   image: 
+  #   image:
   #   content: about_seoyeon.md
   #   image_circular: false # crops the image to make it circular
   #   email: seoyeonmmn@ewhain.net
-  # - align: left
-  #   name: Mingyeong Song
-  #   image: 
-  #   content: about_mingyeong.md
-  #   image_circular: false # crops the image to make it circular
-  #   email: smk11602@ewhain.net
-  # - align: left
-  #   name: Soomin Kim
-  #   image: 
-  #   content: about_mingyeong.md
-  #   image_circular: false # crops the image to make it circular
-  #   email: vog12340@ewha.ac.kr
-  # - align: left
-  #   name: Dongeun Seo
-  #   image: 
-  #   content: about_mingyeong.md
-  #   image_circular: false # crops the image to make it circular
-  #   email: 438862@ewha.ac.kr
 interns:
   - align: left
     name: Yoojin Oh
@@ -102,6 +96,7 @@ interns:
     content: about_yoojin.md
     image_circular: false # crops the image to make it circular
     email: mydianaoh@ewha.ac.kr
+    homepage: https://finallyupper.github.io/
     github_username: finallyupper
   - align: left
     name: Yeojin Song
@@ -125,12 +120,33 @@ interns:
     email: jyunejeon@gmail.com
     github_username: JuneJe0n
     homepage: https://sprout-epoxy-733.notion.site/JuneJeon-898908f4380d4fceb6b4df88399701fd?pvs=4
-  # - align: left
-  #   name: Chehun Han
-  #   image: chehun.jpg
-  #   content: about_chehun.md
-  #   image_circular: false # crops the image to make it circular
-  #   email: chehun1216@ewha.ac.kr
-  #   github_username: chechae
+  - align: left
+    name: Jeesoo Kim
+    image: seroni.png
+    content: about_jeesoo.md
+    image_circular: false # crops the image to make it circular
+    email: 2171008@ewhain.net
+  - align: left
+    name: Juwon Lee
+    image: seroni.png
+    content: about_juwon.md
+    image_circular: false # crops the image to make it circular
+    email: 2276242@ewhain.net
+  - align: left
+    name: Eugene Shin
+    image: seroni.png
+    content: about_eugene.md
+    image_circular: false # crops the image to make it circular
+    email: 03ugene@gmail.com
+alumni:
+  - name: Chehun Han
+    role: Undergraduate Intern
+    period: 03/2024 - 01/2025
+    affiliation: B.S. Student, EWHA
+    homepage: https://nyangche.github.io/
+    <!-- image: chehun.jpg -->
+    <!-- content: about_chehun.md -->
+    <!-- email: chehun1216@ewha.ac.kr -->
+    <!-- github_username: chechae -->
 
 ---

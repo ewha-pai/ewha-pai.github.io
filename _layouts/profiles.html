@@ -182,6 +182,23 @@ layout: page
           {% endfor %}
           {%- endif %}
 
+          <br>
+          {% if page.alumni -%}
+          <h2>Alumni</h2>
+          <ul>
+            {% for alum in page.alumni %}
+              <li>
+                {% if alum.homepage %}
+                  <strong><a href="{{ alum.homepage }}" target="_blank">{{ alum.name }}</a></strong>
+                {% else %}
+                  <strong>{{ alum.name }}</strong>
+                {% endif %}
+                ({{ alum.role }}, {{ alum.period }}) – {{ alum.affiliation }}
+              </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+          
         </article>
 
 </div>

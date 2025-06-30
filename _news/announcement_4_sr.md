@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 <!-- Our paper on hemodialysis mortality prediction was accepted in Scientific Reports (Q1). -->
-One paper accepted at Scientific Reports (Q1).
+One paper accepted in Scientific Reports (Q1).
