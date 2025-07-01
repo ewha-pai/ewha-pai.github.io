@@ -72,7 +72,7 @@ students:
     email: vog12340@ewha.ac.kr
   - align: left
     name: Mingyeong Song
-    image: whayoni.png
+    image: mingyeong.jpg
     content: about_mingyeong.md
     image_circular: false # crops the image to make it circular
     email: smk11602@ewhain.net
