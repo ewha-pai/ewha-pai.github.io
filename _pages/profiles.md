@@ -141,7 +141,7 @@ interns:
 alumni:
   - name: Chehun Han
     role: Undergraduate Intern
-    period: 03/2024--01/2025
+    period: 2024.03 — 2025.01
     affiliation: B.S. Student, EWHA
     homepage: https://nyangche.github.io/
     <!-- image: chehun.jpg -->
