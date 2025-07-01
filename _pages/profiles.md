@@ -114,12 +114,12 @@ interns:
     homepage: https://yyullmucha.notion.site/
   - align: left
     name: Jiyoon Jeon
-    image: seroni.png
+    image: jiyoon.jpeg
     content: about_jiyoon.md
     image_circular: false # crops the image to make it circular
     email: jyunejeon@gmail.com
+    homepage: https://sparkly-onion-be7.notion.site/Jiyoon-s-Notion-16f8e2ec5d7a808e8dafd75f1d0d6604?source=copy_link
     github_username: JuneJe0n
-    homepage: https://sprout-epoxy-733.notion.site/JuneJeon-898908f4380d4fceb6b4df88399701fd?pvs=4
   - align: left
     name: Jeesoo Kim
     image: seroni.png
@@ -141,7 +141,7 @@ interns:
 alumni:
   - name: Chehun Han
     role: Undergraduate Intern
-    period: 03/2024 - 01/2025
+    period: 03/2024--01/2025
     affiliation: B.S. Student, EWHA
     homepage: https://nyangche.github.io/
     <!-- image: chehun.jpg -->
