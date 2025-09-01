@@ -16,7 +16,7 @@ professors:
     image_circular: false # crops the image to make it circular
     email: junhyug@ewha.ac.kr
     homepage: https://junhyug.github.io/
-    scholar_userid: VJgEpXEAAAAJ&hl=ko
+    scholar_userid: VJgEpXEAAAAJ
     linkedin_username: junhyug
 
 students:
@@ -77,11 +77,12 @@ students:
     image_circular: false # crops the image to make it circular
     email: smk11602@ewhain.net
   - align: left
-    name: Dongeun Seo
-    image: dongeun.jpg
-    content: about_dongeun.md
+    name: JaeYi Sung
+    image: whayoni.png
+    content: about_jaeyi.md
     image_circular: false # crops the image to make it circular
-    email: 438862@ewha.ac.kr
+    email: jaeyi98@ewhain.net
+    homepage: https://fringe-scallion-1cd.notion.site/JAEYI-SUNG-08fe0855cdc14fab8af4471052cd2cd2?pvs=74
   # 나중에 추가할 준비
   # - align: left
   #   name: Seoyeon Ko
@@ -90,14 +91,6 @@ students:
   #   image_circular: false # crops the image to make it circular
   #   email: seoyeonmmn@ewhain.net
 interns:
-  - align: left
-    name: Yoojin Oh
-    image: yoojin.jpg
-    content: about_yoojin.md
-    image_circular: false # crops the image to make it circular
-    email: mydianaoh@ewha.ac.kr
-    homepage: https://finallyupper.github.io/
-    github_username: finallyupper
   - align: left
     name: Yeojin Song
     image: yeojin.jpg
@@ -139,11 +132,22 @@ interns:
     image_circular: false # crops the image to make it circular
     email: 03ugene@gmail.com
 alumni:
+  - name: Yoojin Oh
+    role: Undergraduate Intern
+    period: 2024.03 — 2025.06
+    homepage: https://finallyupper.github.io/
+    affiliation: B.S. Student, EWHA
+    <!-- image: yoojin.jpg -->
+    <!-- content: about_yoojin.md -->
+    <!-- image_circular: false # crops the image to make it circular -->
+    <!-- email: mydianaoh@ewha.ac.kr -->
+    <!-- homepage: https://finallyupper.github.io/ -->
+    <!-- github_username: finallyupper -->
   - name: Chehun Han
     role: Undergraduate Intern
     period: 2024.03 — 2025.01
-    affiliation: B.S. Student, EWHA
     homepage: https://nyangche.github.io/
+    affiliation: B.S. Student, EWHA
     <!-- image: chehun.jpg -->
     <!-- content: about_chehun.md -->
     <!-- email: chehun1216@ewha.ac.kr -->
