@@ -78,7 +78,7 @@ students:
     email: smk11602@ewhain.net
   - align: left
     name: JaeYi Sung
-    image: whayoni.png
+    image: jaeyi.jpg
     content: about_jaeyi.md
     image_circular: false # crops the image to make it circular
     email: jaeyi98@ewhain.net
