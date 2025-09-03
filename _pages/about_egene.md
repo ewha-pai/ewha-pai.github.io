@@ -8,5 +8,6 @@
 [CnerG Co., Ltd](https://cnerg.net/) (2022--2023)
 
 ##### [Research Interest]
-Robust Learning<br>
+Domain Adaptation<br>
+Multimodal Learning<br>
 Gait Recognition
