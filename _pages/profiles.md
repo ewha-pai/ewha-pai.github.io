@@ -131,6 +131,12 @@ interns:
     content: about_eugene.md
     image_circular: false # crops the image to make it circular
     email: 03ugene@gmail.com
+  - align: left
+    name: Hanna Jang
+    image: seroni.png
+    content: about_hanna.md
+    image_circular: false # crops the image to make it circular
+    email: hanna2129032@ewhain.net
 alumni:
   - name: Yoojin Oh
     role: Undergraduate Intern
@@ -146,7 +152,7 @@ alumni:
   - name: Chehun Han
     role: Undergraduate Intern
     period: 2024.03 — 2025.01
-    homepage: https://nyangche.github.io/
+    homepage: https://chehun16.github.io/
     affiliation: B.S. Student, EWHA
     <!-- image: chehun.jpg -->
     <!-- content: about_chehun.md -->

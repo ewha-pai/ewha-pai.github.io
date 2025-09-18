@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted in Expert Systems with Applications (Q1).
+One paper accepted in [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) (Q1).
