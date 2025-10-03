@@ -33,7 +33,7 @@ students:
     content: about_jeongin.md
     image_circular: false # crops the image to make it circular
     email: jn.kim@ewha.ac.kr
-    homepage: https://kimjeongin.directory/
+    homepage: https://jn-kim.github.io/
   - align: left
     name: Egene Chung
     image: egene.jpg
