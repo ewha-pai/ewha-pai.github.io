@@ -26,4 +26,4 @@ Our research interests are diverse yet focused, encompassing weakly and semi-sup
 
 If you are interested in what we do and want to join us, do not hesitate to [Email us](mailto:junhyug@ewha.ac.kr)!
 
-🚀 **[New]** We are currently hiring **G-LAMP postdoctoral researchers** to join our lab. Please refer to the [official announcement](http://www.ewha.ac.kr/ewha/news/notice.do?mode=view&articleNo=357853&article.offset=0&articleLimit=10&srCategoryId1=27&no=30).
+🚀 We are currently hiring **G-LAMP postdoctoral researchers** to join our lab. Please refer to the [official announcement](http://www.ewha.ac.kr/ewha/news/notice.do?mode=view&articleNo=357853&article.offset=0&articleLimit=10&srCategoryId1=27&no=30).
