@@ -1,0 +1,7 @@
+/* Prevent line breaks in news date column */
+.news th[scope="row"] {
+  white-space: nowrap;
+  width: 5.5em; /* 필요시 조정 (6~7em 정도면 대부분 한 줄로 표시됨) */
+  text-align: right;
+  padding-right: 1em;
+}

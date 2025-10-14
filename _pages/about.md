@@ -25,3 +25,5 @@ Welcome to PAI (**P**ractical **AI**) Lab! Our lab works on making AI that is us
 Our research interests are diverse yet focused, encompassing weakly and semi-supervised learning, domain adaptation, robust learning, active learning, and multi-modal learning. We are committed to creating AI technologies that adapt, learn, and thrive in the dynamic and often unpredictable landscape of real-world challenges.
 
 If you are interested in what we do and want to join us, do not hesitate to [Email us](mailto:junhyug@ewha.ac.kr)!
+
+🚀 **[New]** We are currently hiring **G-LAMP postdoctoral researchers** to join our lab. Please refer to the [official announcement](http://www.ewha.ac.kr/ewha/news/notice.do?mode=view&articleNo=357853&article.offset=0&articleLimit=10&srCategoryId1=27&no=30).
