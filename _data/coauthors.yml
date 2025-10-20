@@ -58,10 +58,17 @@
 "Cho":
   - firstname: ["Hyunsoo"]
     url: https://hyunsoocho77.github.io/
+  
+  - firstname: ["Yoonki"]
+    url: https://yoonkicho.github.io/
     
 "Moon":
   - firstname: ["Sangwoo"]
     url: https://vision.snu.ac.kr/people/sangwoomoon.html
+
+"Yoon":
+  - firstname: ["Sung-Eui"]
+    url: https://sgvr.kaist.ac.kr/~sungeui/
 
 "Shin":
   - firstname: ["Seungyoun"]
