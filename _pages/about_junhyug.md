@@ -7,8 +7,12 @@
 **M.S.** in CSE, [SNU](https://www.snu.ac.kr/) (2015)<br>
 **B.S.** in CSE & Statistics, [SNU](https://www.snu.ac.kr/) (2013)
 
-##### [Research Interest]
+<div class="profile-detail-research">
+<p>
+<h5>[Research Interest]</h5>
 Object Recognition (e.g., Detection and Segmentation)<br>
 Weakly/Semi Supervised Learning<br>
 Active Learning, Robust Learning<br>
 AI + X (e.g., Medicine, Surveillance, and Process Automation)
+</p>
+</div>
