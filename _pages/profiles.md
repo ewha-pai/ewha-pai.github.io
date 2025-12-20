@@ -11,7 +11,7 @@ professors:
   # and create one content file for each profile inside _pages/
   - align: left
     name: Junhyug Noh
-    image: junhyug.png
+    image: junhyug_bk.png
     content: about_junhyug.md
     image_circular: false # crops the image to make it circular
     email: junhyug@ewha.ac.kr
