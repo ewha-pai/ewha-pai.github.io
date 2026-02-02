@@ -46,6 +46,7 @@ students:
     content: about_ejunghyun.md
     image_circular: false # crops the image to make it circular
     email: ejunghyun@ewha.ac.kr
+    linkedin_username: junghyun-lee-27266179
   - align: left
     name: Seoyeon Ko
     image: seoyeon.jpg
@@ -69,7 +70,7 @@ students:
     image: soomin.jpg
     content: about_soomin.md
     image_circular: false # crops the image to make it circular
-    email: vog12340@ewha.ac.kr
+    email: rosy1216@ewha.ac.kr
   - align: left
     name: Mingyeong Song
     image: mingyeong.jpg
