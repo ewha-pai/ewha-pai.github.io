@@ -116,25 +116,25 @@ interns:
     github_username: JuneJe0n
   - align: left
     name: Jeesoo Kim
-    image: whayoni.png
+    image: seroni.png
     content: about_jeesoo.md
     image_circular: false # crops the image to make it circular
     email: 2171008@ewhain.net
   - align: left
     name: Juwon Lee
-    image: whayoni.png
+    image: seroni.png
     content: about_juwon.md
     image_circular: false # crops the image to make it circular
     email: 2276242@ewhain.net
   - align: left
     name: Eugene Shin
-    image: whayoni.png
+    image: seroni.png
     content: about_eugene.md
     image_circular: false # crops the image to make it circular
     email: 03ugene@gmail.com
   - align: left
     name: Hanna Jang
-    image: whayoni.png
+    image: seroni.png
     content: about_hanna.md
     image_circular: false # crops the image to make it circular
     email: hanna2129032@ewhain.net
