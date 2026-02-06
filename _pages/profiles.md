@@ -94,7 +94,7 @@ students:
 interns:
   - align: left
     name: Yeojin Song
-    image: yeojin.jpg
+    image: profile_yeojin.jpg
     content: about_yeojin.md
     image_circular: false # crops the image to make it circular
     email: syj1031@ewhain.net
@@ -116,28 +116,46 @@ interns:
     github_username: JuneJe0n
   - align: left
     name: Jeesoo Kim
-    image: seroni.png
+    image: whayoni.png
     content: about_jeesoo.md
     image_circular: false # crops the image to make it circular
     email: 2171008@ewhain.net
   - align: left
     name: Juwon Lee
-    image: seroni.png
+    image: whayoni.png
     content: about_juwon.md
     image_circular: false # crops the image to make it circular
     email: 2276242@ewhain.net
   - align: left
     name: Eugene Shin
-    image: seroni.png
+    image: whayoni.png
     content: about_eugene.md
     image_circular: false # crops the image to make it circular
     email: 03ugene@gmail.com
   - align: left
     name: Hanna Jang
-    image: seroni.png
+    image: whayoni.png
     content: about_hanna.md
     image_circular: false # crops the image to make it circular
     email: hanna2129032@ewhain.net
+  - align: left
+    name: Jiwon Heo
+    image: profile_jiwon.jpg
+    content: about_jiwon.md
+    image_circular: false # crops the image to make it circular
+    email: zizifirst0318@ewha.ac.kr
+  - align: left
+    name: Minjeong Kim
+    image: profile_minjeong.jpg
+    content: about_minjeong.md
+    image_circular: false # crops the image to make it circular
+    email: laputais@ewha.ac.kr
+  - align: left
+    name: Yeonhee Jim
+    image: profile_yeonhee.jpg
+    content: about_yeonhee.md
+    image_circular: false # crops the image to make it circular
+    email: yoningewha@ewha.ac.kr
 alumni:
   - name: Yoojin Oh
     role: Undergraduate Intern
