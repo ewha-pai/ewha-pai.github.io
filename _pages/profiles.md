@@ -151,7 +151,7 @@ interns:
     image_circular: false # crops the image to make it circular
     email: laputais@ewha.ac.kr
   - align: left
-    name: Yeonhee Jim
+    name: Yeonhee Kim
     image: profile_yeonhee.jpg
     content: about_yeonhee.md
     image_circular: false # crops the image to make it circular
