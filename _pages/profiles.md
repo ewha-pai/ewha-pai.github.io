@@ -19,6 +19,20 @@ professors:
     scholar_userid: VJgEpXEAAAAJ
     linkedin_username: junhyug
 
+researcher:
+  - align: left
+    name: Heeyoung Ju
+    image: profile_Heeyoung_Ju.jpg
+    content: about_heeyoung.md
+    image_circular: false # crops the image to make it circular
+    email: heeyoungju0922@gmail.com
+  - align: left
+    name: Seoyeon Ko
+    image: seoyeon.jpg
+    content: about_seoyeon.md
+    image_circular: false # crops the image to make it circular
+    email: seoyeonmmn@ewhain.net
+
 students:
   - align: left
     name: Jihyun Yu
@@ -48,24 +62,6 @@ students:
     email: ejunghyun@ewha.ac.kr
     linkedin_username: junghyun-lee-27266179
   - align: left
-    name: Seoyeon Ko
-    image: seoyeon.jpg
-    content: about_seoyeon.md
-    image_circular: false # crops the image to make it circular
-    email: seoyeonmmn@ewhain.net
-  - align: left
-    name: Hyunseo Kim
-    image: hyunseo.jpg
-    content: about_hyunseo.md
-    image_circular: false # crops the image to make it circular
-    email: khsvv@ewhain.net
-  - align: left
-    name: Seoyeong Hwang
-    image: whayoni.png
-    content: about_seoyeong.md
-    image_circular: false # crops the image to make it circular
-    email: hsyeong98@ewhain.net
-  - align: left
     name: Soomin Kim
     image: soomin.jpg
     content: about_soomin.md
@@ -84,6 +80,19 @@ students:
     image_circular: false # crops the image to make it circular
     email: jaeyi98@ewhain.net
     homepage: https://fringe-scallion-1cd.notion.site/JAEYI-SUNG-08fe0855cdc14fab8af4471052cd2cd2?pvs=74
+  - align: left
+    name: Yeojin Song
+    image: profile_yeojin.jpg
+    content: about_yeojin.md
+    image_circular: false # crops the image to make it circular
+    email: syj1031@ewhain.net
+    github_username: YeoJins
+  - align: left
+    name: Jeesoo Kim
+    image: profile_jeesoo.jpeg
+    content: about_jeesoo.md
+    image_circular: false # crops the image to make it circular
+    email: 2171008@ewhain.net
   # 나중에 추가할 준비
   # - align: left
   #   name: Seoyeon Ko
@@ -92,13 +101,6 @@ students:
   #   image_circular: false # crops the image to make it circular
   #   email: seoyeonmmn@ewhain.net
 interns:
-  - align: left
-    name: Yeojin Song
-    image: profile_yeojin.jpg
-    content: about_yeojin.md
-    image_circular: false # crops the image to make it circular
-    email: syj1031@ewhain.net
-    github_username: YeoJins
   - align: left
     name: Youlee Han
     image: youlee.jpg
@@ -114,12 +116,6 @@ interns:
     email: jyunejeon@gmail.com
     homepage: https://sparkly-onion-be7.notion.site/Jiyoon-s-Notion-16f8e2ec5d7a808e8dafd75f1d0d6604?source=copy_link
     github_username: JuneJe0n
-  - align: left
-    name: Jeesoo Kim
-    image: seroni.png
-    content: about_jeesoo.md
-    image_circular: false # crops the image to make it circular
-    email: 2171008@ewhain.net
   - align: left
     name: Juwon Lee
     image: seroni.png
@@ -157,11 +153,28 @@ interns:
     image_circular: false # crops the image to make it circular
     email: yoningewha@ewha.ac.kr
 alumni:
+  - name: Hyunseo Kim
+    role: M.S.
+    period: 2024.03 — 2026.02
+    affiliation: M.S. Student, EWHA
+    # image: hyunseo.jpg
+    # content: about_hyunseo.md
+    # image_circular: false # crops the image to make it circular
+    # email: khsvv@ewhain.net
+  - name: Seoyeong Hwang
+    role: M.S.
+    period: 2024.03 — 2026.02
+    homepage: https://www.linkedin.com/in/seoyeong-hwang-a50885352/
+    affiliation: M.S., EWHA
+    # image: whayoni.png
+    # content: about_seoyeong.md
+    # image_circular: false # crops the image to make it circular
+    # email: hsyeong98@ewhain.net
   - name: Yoojin Oh
-    role: Undergraduate Intern
+    role: B.S.
     period: 2024.03 — 2025.06
     homepage: https://finallyupper.github.io/
-    affiliation: B.S. Student, EWHA
+    affiliation: Graduate Student, KAIST
     <!-- image: yoojin.jpg -->
     <!-- content: about_yoojin.md -->
     <!-- image_circular: false # crops the image to make it circular -->
@@ -169,13 +182,12 @@ alumni:
     <!-- homepage: https://finallyupper.github.io/ -->
     <!-- github_username: finallyupper -->
   - name: Chehun Han
-    role: Undergraduate Intern
+    role: B.S.
     period: 2024.03 — 2025.01
     homepage: https://chehun16.github.io/
-    affiliation: B.S. Student, EWHA
+    affiliation: B.S., EWHA
     <!-- image: chehun.jpg -->
     <!-- content: about_chehun.md -->
     <!-- email: chehun1216@ewha.ac.kr -->
     <!-- github_username: chechae -->
-
 ---
