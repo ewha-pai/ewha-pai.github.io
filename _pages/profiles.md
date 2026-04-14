@@ -107,7 +107,7 @@ interns:
     content: about_youlee.md
     image_circular: false # crops the image to make it circular
     email: oneglass@ewhain.net
-    homepage: https://yyullmucha.notion.site/
+    homepage: https://yyull.github.io/
   - align: left
     name: Jiyoon Jeon
     image: jiyoon.jpeg
@@ -147,19 +147,6 @@ interns:
     image_circular: false # crops the image to make it circular
     email: yoningewha@ewha.ac.kr
 alumni:
-  - name: Hanna Jang
-    role: B.S.
-    period: 2025.07 — 2026.04
-    affiliation: B.S., EWHA
-    <!-- image: chehun.jpg -->
-    <!-- content: about_chehun.md -->
-    <!-- email: chehun1216@ewha.ac.kr -->
-  # - align: left
-  #   name: Hanna Jang
-  #   image: seroni.png
-  #   content: about_hanna.md
-  #   image_circular: false # crops the image to make it circular
-  #   email: hanna2129032@ewhain.net
   - name: Hyunseo Kim
     role: M.S.
     period: 2024.03 — 2026.02
@@ -177,6 +164,10 @@ alumni:
     # content: about_seoyeong.md
     # image_circular: false # crops the image to make it circular
     # email: hsyeong98@ewhain.net
+  - name: Hanna Jang
+    role: B.S.
+    period: 2025.07 — 2026.04
+    affiliation: B.S., EWHA
   - name: Yoojin Oh
     role: B.S.
     period: 2024.03 — 2025.06

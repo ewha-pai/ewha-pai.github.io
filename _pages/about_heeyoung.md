@@ -4,8 +4,8 @@
 **Editorial Director**, [KSLES](https://ksles.org/)
 
 ##### [Education]
-**Ph.D.** in Department of Human Environment & Design, College of Human Ecology, Yonsei University (Master's-Ph.D. Integrated Course) (2021)<br>
-**B.S** in Department of Biotechnology, Yonsei University (2011)<br>
+**Ph.D.** in [YID](https://yid.yonsei.ac.kr/?page_id=549&lang=en), [YONSEI](https://www.yonsei.ac.kr/sc/index.do) (2021)<br>
+**B.S** in [BIOTECH](https://biotech.yonsei.ac.kr/biotech/index.do), [YONSEI](https://www.yonsei.ac.kr/sc/index.do) (2011)<br>
 
 ##### [Work Experiences]
 <div class="profile-detail-work">
