@@ -129,12 +129,6 @@ interns:
     image_circular: false # crops the image to make it circular
     email: 03ugene@gmail.com
   - align: left
-    name: Hanna Jang
-    image: seroni.png
-    content: about_hanna.md
-    image_circular: false # crops the image to make it circular
-    email: hanna2129032@ewhain.net
-  - align: left
     name: Jiwon Heo
     image: profile_jiwon.jpg
     content: about_jiwon.md
@@ -153,10 +147,23 @@ interns:
     image_circular: false # crops the image to make it circular
     email: yoningewha@ewha.ac.kr
 alumni:
+  - name: Hanna Jang
+    role: B.S.
+    period: 2025.07 — 2026.04
+    affiliation: B.S., EWHA
+    <!-- image: chehun.jpg -->
+    <!-- content: about_chehun.md -->
+    <!-- email: chehun1216@ewha.ac.kr -->
+  # - align: left
+  #   name: Hanna Jang
+  #   image: seroni.png
+  #   content: about_hanna.md
+  #   image_circular: false # crops the image to make it circular
+  #   email: hanna2129032@ewhain.net
   - name: Hyunseo Kim
     role: M.S.
     period: 2024.03 — 2026.02
-    affiliation: M.S. Student, EWHA
+    affiliation: The Catholic University of Korea Seoul St. Mary's Hospital
     # image: hyunseo.jpg
     # content: about_hyunseo.md
     # image_circular: false # crops the image to make it circular
@@ -165,7 +172,7 @@ alumni:
     role: M.S.
     period: 2024.03 — 2026.02
     homepage: https://www.linkedin.com/in/seoyeong-hwang-a50885352/
-    affiliation: M.S., EWHA
+    affiliation: KAITLab
     # image: whayoni.png
     # content: about_seoyeong.md
     # image_circular: false # crops the image to make it circular
