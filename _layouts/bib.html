@@ -116,7 +116,7 @@
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
-          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}<em>{{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
         {%- else -%}
@@ -187,6 +187,13 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          {%- if entry.certificate %}
+            {% if entry.certificate contains '://' -%}
+              <a href="{{ entry.certificate }}" class="btn btn-sm z-depth-0" role="button">Certificate</a>
+            {%- else -%}
+              <a href="{{ entry.certificate | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Certificate</a>
+            {%- endif %}
           {%- endif %}
           </div>
           {% if site.badges %}

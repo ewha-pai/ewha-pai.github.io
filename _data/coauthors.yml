@@ -47,6 +47,10 @@
   - firstname: ["Joonhyung"]
     url: https://joonhyung-lee.github.io/
 
+"Song":
+  - firstname: ["Yeojin"]
+    url: https://yj-song131.github.io/
+
 "Oh":
   - firstname: ["Yoojin"]
     url: https://finallyupper.github.io/
@@ -81,6 +85,10 @@
 "Choi":
   - firstname: ["Sungjoon"]
     url: https://sites.google.com/view/sungjoon-choi/home
+
+"Park":
+  - firstname: ["Jaehyun"]
+    url: https://cabbalett.github.io/
 
 "Zhang":
   - firstname: ["Byoung-Tak", "ByoungTak"]

@@ -86,6 +86,7 @@ students:
     content: about_yeojin.md
     image_circular: false # crops the image to make it circular
     email: syj1031@ewhain.net
+    homepage: https://yj-song131.github.io/
     github_username: YeoJins
   - align: left
     name: Jeesoo Kim
@@ -150,7 +151,7 @@ alumni:
   - name: Hyunseo Kim
     role: M.S.
     period: 2024.03 — 2026.02
-    affiliation: The Catholic University of Korea Seoul St. Mary's Hospital
+    affiliation: Seoul St. Mary's Hospital
     # image: hyunseo.jpg
     # content: about_hyunseo.md
     # image_circular: false # crops the image to make it circular
@@ -167,7 +168,7 @@ alumni:
   - name: Hanna Jang
     role: B.S.
     period: 2025.07 — 2026.04
-    affiliation: B.S., EWHA
+    affiliation: Undergraduate Student, EWHA
   - name: Yoojin Oh
     role: B.S.
     period: 2024.03 — 2025.06
@@ -183,7 +184,7 @@ alumni:
     role: B.S.
     period: 2024.03 — 2025.01
     homepage: https://chehun16.github.io/
-    affiliation: B.S., EWHA
+    affiliation: Undergraduate student, EWHA
     <!-- image: chehun.jpg -->
     <!-- content: about_chehun.md -->
     <!-- email: chehun1216@ewha.ac.kr -->
