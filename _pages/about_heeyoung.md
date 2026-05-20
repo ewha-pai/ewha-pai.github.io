@@ -1,6 +1,6 @@
 <p></p>
 
-**G-LAMP Postdoctoral Researcher**, [G-LAMP](https://cmsfox.ewha.ac.kr/airi/index.do), [EWHA](http://www.ewha.ac.kr/ewha/index.do)<br>
+**Postdoctoral Researcher**, [G-LAMP](https://cmsfox.ewha.ac.kr/airi/index.do), [EWHA](http://www.ewha.ac.kr/ewha/index.do)<br>
 **Editorial Director**, [KSLES](https://ksles.org/)
 
 ##### [Education]
@@ -10,7 +10,7 @@
 ##### [Work Experiences]
 <div class="profile-detail-work">
 <p>
-Post doctoral fellow, College of Human Ecology, Seoul National University (2021.03 - 2025.12)<br>
+Postdoc, College of Human Ecology, SNU (2021.03 - 2025.12)<br>
 </p>
 </div>
 
