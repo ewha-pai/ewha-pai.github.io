@@ -60,6 +60,8 @@ students:
     content: about_ejunghyun.md
     image_circular: false # crops the image to make it circular
     email: ejunghyun@ewha.ac.kr
+    homepage: https://ejunghyun.github.io/
+    scholar_userid: TltEVUYAAAAJ
     linkedin_username: junghyun-lee-27266179
   - align: left
     name: Soomin Kim
@@ -147,6 +149,24 @@ interns:
     content: about_yeonhee.md
     image_circular: false # crops the image to make it circular
     email: yoningewha@ewha.ac.kr
+  - align: left
+    name: Hwiseo Kim
+    image: seroni.png
+    content: about_hwiseo.md
+    image_circular: false # crops the image to make it circular
+    email: hwiai23@ewha.ac.kr
+  - align: left
+    name: Minseo Kim
+    image: profile_minseo.jpg
+    content: about_minseo.md
+    image_circular: false # crops the image to make it circular
+    email: minseooo.950@gmail.com
+  - align: left
+    name: Mingyung Park
+    image: profile_mingyung.jpg
+    content: about_mingyung.md
+    image_circular: false # crops the image to make it circular
+    email: kateking001130@ewhain.net
 alumni:
   - name: Hyunseo Kim
     role: M.S.
