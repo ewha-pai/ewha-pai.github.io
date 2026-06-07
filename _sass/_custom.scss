@@ -5,3 +5,35 @@
   text-align: right;
   padding-right: 1em;
 }
+
+.research-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+.research-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.research-card h3 {
+  font-size: 1.15rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.research-card p {
+  font-size: 0.95rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}

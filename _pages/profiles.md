@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Members of PAI Lab
 nav: true
-nav_order: 1
+nav_order: 2
 
 professors:
   # if you want to include more than one profile, just replicate the following block
