@@ -9,7 +9,7 @@ nav_order: 1
 Our lab develops practical AI technologies that can learn from limited, imperfect, and real-world data. Our research focuses on computer vision, machine learning, and multimodal AI, with applications in medical AI, surveillance, scientific discovery, and trustworthy AI systems.
 
 <p align="center">
-  <img src="/assets/img/research_overview.png" alt="Research Overview" width="95%">
+  <img src="/assets/img/research_overview.png" alt="Research Overview" width="100%">
 </p>
 
 <div class="research-grid">
