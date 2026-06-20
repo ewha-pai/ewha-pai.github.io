@@ -75,6 +75,7 @@ students:
     content: about_mingyeong.md
     image_circular: false # crops the image to make it circular
     email: smk11602@ewhain.net
+    homepage: https://smk11602.github.io/
   - align: left
     name: JaeYi Sung
     image: jaeyi.jpg
