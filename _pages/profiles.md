@@ -121,18 +121,6 @@ interns:
     homepage: https://sparkly-onion-be7.notion.site/Jiyoon-s-Notion-16f8e2ec5d7a808e8dafd75f1d0d6604?source=copy_link
     github_username: JuneJe0n
   - align: left
-    name: Juwon Lee
-    image: seroni.png
-    content: about_juwon.md
-    image_circular: false # crops the image to make it circular
-    email: 2276242@ewhain.net
-  - align: left
-    name: Eugene Shin
-    image: seroni.png
-    content: about_eugene.md
-    image_circular: false # crops the image to make it circular
-    email: 03ugene@gmail.com
-  - align: left
     name: Jiwon Heo
     image: profile_jiwon.jpg
     content: about_jiwon.md
@@ -186,6 +174,26 @@ alumni:
     # content: about_seoyeong.md
     # image_circular: false # crops the image to make it circular
     # email: hsyeong98@ewhain.net
+  - name: Eugene Shin
+    role: B.S.
+    period: 2025.06 — 2026.06
+    affiliation: Undergraduate Student, EWHA
+  # - align: left
+  #   name: Eugene Shin
+  #   image: seroni.png
+  #   content: about_eugene.md
+  #   image_circular: false # crops the image to make it circular
+  #   email: 03ugene@gmail.com
+  - name: Juwon Lee
+    role: B.S.
+    period: 2025.02 — 2026.06
+    affiliation: Undergraduate Student, EWHA
+  # - align: left
+  #   name: Juwon Lee
+  #   image: seroni.png
+  #   content: about_juwon.md
+  #   image_circular: false # crops the image to make it circular
+  #   email: 2276242@ewhain.net
   - name: Hanna Jang
     role: B.S.
     period: 2025.07 — 2026.04
