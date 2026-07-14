@@ -159,7 +159,7 @@ interns:
 alumni:
   - name: Hyunseo Kim
     role: M.S.
-    period: 2024.03 — 2026.02
+    period: 2026.02
     affiliation: Seoul St. Mary's Hospital
     # image: hyunseo.jpg
     # content: about_hyunseo.md
@@ -167,7 +167,7 @@ alumni:
     # email: khsvv@ewhain.net
   - name: Seoyeong Hwang
     role: M.S.
-    period: 2024.03 — 2026.02
+    period: 2026.02
     homepage: https://www.linkedin.com/in/seoyeong-hwang-a50885352/
     affiliation: KAITLab
     # image: whayoni.png
@@ -176,7 +176,7 @@ alumni:
     # email: hsyeong98@ewhain.net
   - name: Eugene Shin
     role: B.S.
-    period: 2025.06 — 2026.06
+    <!-- period: 2025.06 — 2026.06 -->
     affiliation: Undergraduate Student, EWHA
   # - align: left
   #   name: Eugene Shin
@@ -186,7 +186,7 @@ alumni:
   #   email: 03ugene@gmail.com
   - name: Juwon Lee
     role: B.S.
-    period: 2025.02 — 2026.06
+    <!-- period: 2025.02 — 2026.06 -->
     affiliation: Undergraduate Student, EWHA
   # - align: left
   #   name: Juwon Lee
@@ -196,11 +196,11 @@ alumni:
   #   email: 2276242@ewhain.net
   - name: Hanna Jang
     role: B.S.
-    period: 2025.07 — 2026.04
+    <!-- period: 2025.07 — 2026.04 -->
     affiliation: Undergraduate Student, EWHA
   - name: Yoojin Oh
     role: B.S.
-    period: 2024.03 — 2025.06
+    <!-- period: 2024.03 — 2025.06 -->
     homepage: https://finallyupper.github.io/
     affiliation: Graduate Student, KAIST
     <!-- image: yoojin.jpg -->
@@ -211,7 +211,7 @@ alumni:
     <!-- github_username: finallyupper -->
   - name: Chehun Han
     role: B.S.
-    period: 2024.03 — 2025.01
+    <!-- period: 2024.03 — 2025.01 -->
     homepage: https://chehun16.github.io/
     affiliation: Undergraduate student, EWHA
     <!-- image: chehun.jpg -->

@@ -252,7 +252,7 @@ layout: page
                 {% else %}
                   <strong>{{ alum.name }}</strong>
                 {% endif %}
-                ({{ alum.role }}, {{ alum.period }}) – {{ alum.affiliation }}
+                ({{ alum.role }}{% if alum.period %}, {{ alum.period }}{% endif %}) – {{ alum.affiliation }}
               </li>
             {% endfor %}
           </ul>
