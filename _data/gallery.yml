@@ -1,0 +1,48 @@
+- image: assets/img/1.jpg
+  title: Group dinner after the deadline
+  category: Lab Life
+  date: 2026-03-14
+- image: assets/img/2.jpg
+  title: Weekly seminar discussion
+  category: Research
+  date: 2026-03-21
+- image: assets/img/3.jpg
+  title: Welcome party for new members
+  category: Lab Life
+  date: 2026-02-27
+- image: assets/img/4.jpg
+  title: Spring lab retreat
+  category: Retreats
+  date: 2026-04-18
+- image: assets/img/5.jpg
+  title: Poster session rehearsal
+  category: Research
+  date: 2026-05-02
+- image: assets/img/6.jpg
+  title: Lab workshop booth
+  category: Events
+  date: 2026-05-20
+- image: assets/img/7.jpg
+  title: Late-night coding session
+  category: Lab Life
+  date: 2026-06-05
+- image: assets/img/8.jpg
+  title: Team building at the retreat house
+  category: Retreats
+  date: 2026-04-19
+- image: assets/img/9.jpg
+  title: Conference presentation
+  category: Research
+  date: 2026-06-24
+- image: assets/img/10.jpg
+  title: Lab anniversary celebration
+  category: Events
+  date: 2026-07-11
+- image: assets/img/11.jpg
+  title: BBQ night at the retreat
+  category: Retreats
+  date: 2026-04-19
+- image: assets/img/12.jpg
+  title: End-of-year gathering
+  category: Events
+  date: 2026-12-20
