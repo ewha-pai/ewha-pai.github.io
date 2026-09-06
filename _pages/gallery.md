@@ -16,7 +16,8 @@ nav_order: 3
 </div>
 
 <div class="gallery-grid">
-  {%- for item in site.data.gallery -%}
+  {%- assign gallery_items = site.data.gallery | sort: "date" | reverse -%}
+  {%- for item in gallery_items -%}
   <div class="gallery-item" data-category="{{ item.category | slugify }}">
     <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" loading="lazy">
     <div class="gallery-overlay">
@@ -25,6 +26,10 @@ nav_order: 3
     </div>
   </div>
   {%- endfor -%}
+</div>
+
+<div class="gallery-load-more-wrap">
+  <button id="gallery-load-more" class="gallery-load-more-btn" type="button">Load more</button>
 </div>
 
 <style>
@@ -120,24 +125,66 @@ nav_order: 3
     opacity: 0.85;
     margin-top: 0.15rem;
   }
+
+  .gallery-load-more-wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.75rem;
+  }
+
+  .gallery-load-more-btn {
+    padding: 0.5rem 1.4rem;
+    border-radius: 999px;
+    border: 1px solid var(--global-divider-color);
+    background: var(--global-bg-color);
+    color: var(--global-text-color);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .gallery-load-more-btn:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+  }
 </style>
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    var BATCH_SIZE = 12;
     var buttons = document.querySelectorAll('.gallery-filter-btn');
-    var items = document.querySelectorAll('.gallery-item');
+    var items = Array.prototype.slice.call(document.querySelectorAll('.gallery-item'));
+    var loadMoreBtn = document.getElementById('gallery-load-more');
+
+    var currentCategory = 'all';
+    var visibleCount = BATCH_SIZE;
+
+    function matchesCategory(item) {
+      return currentCategory === 'all' || item.getAttribute('data-category') === currentCategory;
+    }
+
+    function render() {
+      var matched = items.filter(matchesCategory);
+      items.forEach(function (item) { item.style.display = 'none'; });
+      matched.slice(0, visibleCount).forEach(function (item) { item.style.display = ''; });
+      loadMoreBtn.hidden = matched.length <= visibleCount;
+    }
 
     buttons.forEach(function (button) {
       button.addEventListener('click', function () {
         buttons.forEach(function (b) { b.classList.remove('active'); });
         button.classList.add('active');
-
-        var category = button.getAttribute('data-category');
-        items.forEach(function (item) {
-          var show = category === 'all' || item.getAttribute('data-category') === category;
-          item.style.display = show ? '' : 'none';
-        });
+        currentCategory = button.getAttribute('data-category');
+        visibleCount = BATCH_SIZE;
+        render();
       });
     });
+
+    loadMoreBtn.addEventListener('click', function () {
+      visibleCount += BATCH_SIZE;
+      render();
+    });
+
+    render();
   });
 </script>
