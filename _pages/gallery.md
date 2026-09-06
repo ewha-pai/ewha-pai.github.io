@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 description: A look at life in the lab.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <div class="gallery-filters">
