@@ -7,6 +7,6 @@
 **B.S.** in [MBE](https://mbe.ewha.ac.kr/mbeadmin/index.do), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (2024)
 
 ##### [Research Interest]
-Deep Learning for Signal Processing<br>
-Audio Representation Learning<br>
-Multimodal Learning
+Human Representation Learning<br>
+Multimodal Learning<br>
+Generative Modeling
