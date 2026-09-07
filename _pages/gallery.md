@@ -10,8 +10,12 @@ nav_order: 3
 <div class="gallery-filters">
   <button class="gallery-filter-btn active" data-category="all" type="button">All</button>
   {%- assign gallery_categories = "Lab Life,Research,Events,Retreats" | split: "," -%}
+  {%- assign filter_index = 1 -%}
   {%- for category in gallery_categories -%}
+  {%- assign filter_index = filter_index | plus: 1 -%}
   <button class="gallery-filter-btn" data-category="{{ category | slugify }}" type="button">{{ category }}</button>
+  {%- assign filter_index_mod = filter_index | modulo: 3 -%}
+  {%- if filter_index_mod == 0 -%}<div class="gallery-filter-break"></div>{%- endif -%}
   {%- endfor -%}
 </div>
 
@@ -39,6 +43,19 @@ nav_order: 3
     justify-content: center;
     gap: 0.5rem;
     margin: 0.5rem 0 2rem;
+  }
+
+  .gallery-filter-break {
+    flex-basis: 0;
+    width: 0;
+    height: 0;
+  }
+
+  @media (max-width: 576px) {
+    .gallery-filter-break {
+      flex-basis: 100%;
+      height: 0;
+    }
   }
 
   .gallery-filter-btn {
