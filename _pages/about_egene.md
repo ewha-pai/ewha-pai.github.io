@@ -8,6 +8,6 @@
 [CnerG Co., Ltd](https://cnerg.net/) (2022--2023)
 
 ##### [Research Interest]
-Domain Adaptation<br>
+3D Vision<br>
+Domain Generalization<br>
 Multimodal Learning<br>
-Gait Recognition

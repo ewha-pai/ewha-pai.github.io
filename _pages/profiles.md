@@ -32,6 +32,7 @@ researcher:
     content: about_seoyeon.md
     image_circular: false # crops the image to make it circular
     email: seoyeonmmn@ewhain.net
+    homepage: https://seoyeonmmn.github.io/
 
 students:
   - align: left
@@ -50,7 +51,7 @@ students:
     homepage: https://jn-kim.github.io/
   - align: left
     name: Egene Chung
-    image: egene.jpg
+    image: egene-2.jpg
     content: about_egene.md
     image_circular: false # crops the image to make it circular
     email: egene@ewha.ac.kr
@@ -64,18 +65,24 @@ students:
     scholar_userid: TltEVUYAAAAJ
     linkedin_username: junghyun-lee-27266179
   - align: left
+    name: Mingyeong Song
+    image: mingyeong.jpg
+    content: about_mingyeong.md
+    image_circular: false # crops the image to make it circular
+    email: smk0219@ewha.ac.kr
+    homepage: https://smk11602.github.io/
+  - align: left
+    name: Mingyung Park
+    image: profile_mingyung.jpg
+    content: about_mingyung.md
+    image_circular: false # crops the image to make it circular
+    email: kateking001130@ewhain.net
+  - align: left
     name: Soomin Kim
     image: soomin.jpg
     content: about_soomin.md
     image_circular: false # crops the image to make it circular
     email: rosy1216@ewha.ac.kr
-  - align: left
-    name: Mingyeong Song
-    image: mingyeong.jpg
-    content: about_mingyeong.md
-    image_circular: false # crops the image to make it circular
-    email: smk11602@ewhain.net
-    homepage: https://smk11602.github.io/
   - align: left
     name: JaeYi Sung
     image: jaeyi.jpg
@@ -96,7 +103,7 @@ students:
     image: profile_jeesoo.jpeg
     content: about_jeesoo.md
     image_circular: false # crops the image to make it circular
-    email: 2171008@ewhain.net
+    email: kjs26201@ewha.ac.kr
   # 나중에 추가할 준비
   # - align: left
   #   name: Seoyeon Ko
@@ -150,12 +157,6 @@ interns:
     content: about_minseo.md
     image_circular: false # crops the image to make it circular
     email: minseooo.950@gmail.com
-  - align: left
-    name: Mingyung Park
-    image: profile_mingyung.jpg
-    content: about_mingyung.md
-    image_circular: false # crops the image to make it circular
-    email: kateking001130@ewhain.net
 alumni:
   - name: Hyunseo Kim
     role: M.S.
