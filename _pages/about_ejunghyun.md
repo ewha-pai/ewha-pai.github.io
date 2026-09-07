@@ -9,9 +9,10 @@
 ##### [Work Experiences]
 <div class="profile-detail-work">
 <p>
-Gem Pack Co.,Ltd. — CEO (2017.12 – Present)<br>
-The Catholic University of Korea — Part-time Lecturer (2023.09 – Present)<br>
-BtoWIN — CTO (2023.01 – 2025.04)<br>
+CEO, Gem Pack Co.,Ltd. (2017.12 – Present)<br>
+Adjunct Professor, CUK (2026.09 - Present)<br>
+Part-time Lecturer, CUK (2023.09 – 2026.08)<br>
+CTO, BtoWIN (2023.01 – 2025.04)<br>
 LINE PLAY Corporation (2014.03 – 2017.03)<br>
 Ntiq Games (2012.09 – 2014.02)<br>
 The Final Five (2010.07 – 2012.06)<br>

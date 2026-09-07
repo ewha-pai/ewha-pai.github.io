@@ -10,6 +10,7 @@
 ##### [Work Experiences]
 <div class="profile-detail-work">
 <p>
+Lecturer, Department of Fashion Design, GTEC (2026.09 - Present)<br>
 Postdoc, College of Human Ecology, SNU (2021.03 - 2025.12)<br>
 </p>
 </div>
