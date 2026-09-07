@@ -110,6 +110,9 @@ nav_order: 3
     height: 100%;
     object-fit: cover;
     display: block;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
   }
 
   .gallery-overlay {
@@ -203,5 +206,23 @@ nav_order: 3
     });
 
     render();
+
+    // Best-effort deterrents against casual copying. These do not (and cannot)
+    // block screenshots, which happen at the OS level outside the page's reach,
+    // and can be bypassed by disabling JS, using the browser menu, etc.
+    document.addEventListener('contextmenu', function (e) {
+      e.preventDefault();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      var key = e.key.toUpperCase();
+      var blocked =
+        key === 'F12' ||
+        ((e.ctrlKey || e.metaKey) && e.shiftKey && (key === 'I' || key === 'J' || key === 'C')) ||
+        ((e.ctrlKey || e.metaKey) && key === 'U');
+      if (blocked) {
+        e.preventDefault();
+      }
+    });
   });
 </script>
