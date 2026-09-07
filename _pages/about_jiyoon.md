@@ -1,7 +1,7 @@
 <p></p>
 
 ##### [Education]
-**B.S.** in [Data Science](https://datascience.ewha.ac.kr/datascience/index.do), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (Present)
+**B.S.** in [AI](https://ai.ewha.ac.kr/deptai/index.do), [EWHA](http://www.ewha.ac.kr/ewha/index.do) (Present)
 
 ##### [Work Experiences]
 AegisData (2026.06 - 2026.08)<br>
