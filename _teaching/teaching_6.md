@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 **39140** - AI Applied Mathematics\
-**39143** - Pattern Recognition\
+**39143 (01, 02)** - Pattern Recognition\
 **IDS104 / IDI106** - Machine Learning Algorithms in Practice
