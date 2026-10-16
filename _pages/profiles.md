@@ -84,7 +84,7 @@ students:
     image_circular: false # crops the image to make it circular
     email: rosy1216@ewha.ac.kr
   - align: left
-    name: JaeYi Sung
+    name: Jaeyi Sung
     image: jaeyi.jpg
     content: about_jaeyi.md
     image_circular: false # crops the image to make it circular
