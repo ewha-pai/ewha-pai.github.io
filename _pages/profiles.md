@@ -42,6 +42,7 @@ students:
     image_circular: false # crops the image to make it circular
     email: jeehyun.yu@ewhain.net
     linkedin_username: jihyun-yu-0186a0112
+    homepage: https://yugomee.github.io/index.html
   - align: left
     name: Jeongin Kim
     image: jeongin.jpeg
