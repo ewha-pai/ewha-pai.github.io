@@ -4,8 +4,10 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
-          {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            {%- if site.logo -%}
+              <img class="navbar-logo" src="{{ site.logo | prepend: 'assets/img/' | relative_url }}" alt="">
+            {%- endif -%}
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -20,7 +22,7 @@
               {{- site.title -}}
             {%- endif -%}
           </a>
-          {%- elsif site.enable_navbar_social -%}
+          {%- if site.enable_navbar_social -%}
           <!-- Social Icons -->
           <div class="navbar-brand social">
             {% include social.html %}

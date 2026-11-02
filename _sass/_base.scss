@@ -216,7 +216,15 @@ blockquote {
   }
 
   .navbar-brand {
+    display: inline-flex;
+    align-items: center;
     color: var(--global-text-color);
+  }
+
+  .navbar-logo {
+    height: 2rem;
+    width: auto;
+    margin-right: 0.5rem;
   }
 
   .navbar-nav .nav-item .nav-link {
